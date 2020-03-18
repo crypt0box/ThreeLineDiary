@@ -88,11 +88,11 @@ class PostCreate(generic.CreateView):
         return redirect('ThreeLineDiary:user_detail', pk=user_pk)
 
 
-class ThumbnailUpdate(generic.UpdateView):
+class IconUpdate(generic.UpdateView):
     """サムネイル投稿"""
     model = User
     fields = ('image',)
-    template_name = 'ThreeLineDiary/thumbnail_update.html'
+    template_name = 'ThreeLineDiary/icon_update.html'
 
     def get_success_url(self):
         return reverse('ThreeLineDiary:user_detail', kwargs={'pk': self.object.pk})
