@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9494798a-073c-4b0c-b608-7366891d6651" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThreeLineDiary/templates/ThreeLineDiary/user_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/ThreeLineDiary/templates/ThreeLineDiary/user_detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThreeLineDiary/templates/ThreeLineDiary/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/ThreeLineDiary/templates/ThreeLineDiary/about.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,25 +21,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="4" />
+          <entry key="html" value="5" />
           <entry key="py" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="4" />
+          <entry key="HTML" value="5" />
           <entry key="Python" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="67" />
+          <entry key="html" value="95" />
           <entry key="py" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="67" />
+          <entry key="HTML" value="95" />
           <entry key="Python" value="25" />
         </counts>
       </usages-collector>
@@ -99,7 +98,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ThreeLineDiary/templates/ThreeLineDiary/user_detail.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="132">
@@ -108,6 +107,15 @@
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ThreeLineDiary/templates/ThreeLineDiary/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="21" column="74" selection-start-line="21" selection-start-column="74" selection-end-line="21" selection-end-column="74" />
             </state>
           </provider>
         </entry>
@@ -138,12 +146,13 @@
         <option value="$PROJECT_DIR$/ThreeLineDiary/templates/ThreeLineDiary/user_create_complete.html" />
         <option value="$PROJECT_DIR$/ThreeLineDiary/templates/ThreeLineDiary/login.html" />
         <option value="$PROJECT_DIR$/ThreeLineDiary/templates/ThreeLineDiary/user_detail.html" />
+        <option value="$PROJECT_DIR$/ThreeLineDiary/templates/ThreeLineDiary/about.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1011" />
-    <option name="width" value="916" />
+    <option name="x" value="946" />
+    <option name="width" value="981" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -160,6 +169,11 @@
             <path>
               <item name="diary" type="b2602c69:ProjectViewProjectNode" />
               <item name="diary" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="diary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="diary" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="diary" type="b2602c69:ProjectViewProjectNode" />
@@ -216,11 +230,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1011" y="0" width="916" height="1047" extended-state="0" />
+    <frame x="972" y="0" width="955" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2665148" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25517994" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
@@ -301,6 +315,13 @@
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThreeLineDiary/templates/ThreeLineDiary/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="74" selection-start-line="21" selection-start-column="74" selection-end-line="21" selection-end-column="74" />
         </state>
       </provider>
     </entry>
