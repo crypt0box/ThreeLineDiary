@@ -77,9 +77,9 @@ WSGI_APPLICATION = 'diary.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'threelinediary',
-        'USER': 'cryptobox',
-        'PASSWORD': 'toshiki554798',
+        'NAME': 'name',
+        'USER': 'user',
+        'PASSWORD': '',
         'HOST': 'localhost',
         'PORT': '',
     }
